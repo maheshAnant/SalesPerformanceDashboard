@@ -1,6 +1,6 @@
 {
-  "name": "Sales Performance Dashboard",
-  "short_name": "Sales Performance Dashboard",
+  "name": "sales-performance-dashboard",
+  "short_name": "sales-performance-dashboard",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
